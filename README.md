@@ -16,10 +16,7 @@ This Node.js script converts Markdown (.md) files to a LinkedIn-style format. It
     cd markdown-to-linkedin
     ```
 
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
+
 
 ## Usage
 
